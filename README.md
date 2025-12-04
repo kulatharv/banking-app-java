@@ -44,25 +44,25 @@ This project demonstrates core programming concepts such as Object-Oriented Prog
         - Utils.java → Password hashing utilities
         - Main.java → Main application (menu-driven program)
 
-**Technologies Used**
-    - Technology	Purpose
-        - Java (Core Java)	Main programming language
-        - OOP Principles	Class, Object, Encapsulation
-        - File Handling (Serialization)	Persistent data storage
-        - SHA-256 Hashing	Secure password management
-        - VS Code / IntelliJ / Eclipse	IDE
+**Technologies Used** 
+  -  Technology	Purpose
+       - Java (Core Java)	Main programming language
+       - OOP Principles	Class, Object, Encapsulation
+       - File Handling (Serialization)	Persistent data storage
+       - SHA-256 Hashing	Secure password management
+       - VS Code / IntelliJ / Eclipse	IDE
 
 **Project Structure**
     banking-app-java/
     │
-    ├── Main.java             # Main program (menu-driven)
-    ├── BankSystem.java       # Core banking functionalities
-    ├── User.java             # User model class
-    ├── Utils.java            # Hashing utility functions
+    ├  ── Main.java             # Main program (menu-driven)
+    ├  ── BankSystem.java       # Core banking functionalities
+    ├  ── User.java             # User model class
+    ├  ── Utils.java            # Hashing utility functions
     │
-    ├── users.db              # Auto-generated storage file
-    ├── README.md             # Project documentation
-    └── .gitignore            # Git ignore file
+    ├  ── users.db              # Auto-generated storage file
+    ├  ── README.md             # Project documentation
+    └  ── .gitignore            # Git ignore file
 
 **How to Run the Project**
   1. Clone the repository
