@@ -54,15 +54,15 @@ This project demonstrates core programming concepts such as Object-Oriented Prog
 
 **Project Structure**
     banking-app-java/
-    │
-    ├  ── Main.java             # Main program (menu-driven)
-    ├  ── BankSystem.java       # Core banking functionalities
-    ├  ── User.java             # User model class
-    ├  ── Utils.java            # Hashing utility functions
-    │
-    ├  ── users.db              # Auto-generated storage file
-    ├  ── README.md             # Project documentation
-    └  ── .gitignore            # Git ignore file
+  - │
+  - ├  ─  ─ Main.java             # Main program (menu-driven)
+  - ├  ─  ─ BankSystem.java       # Core banking functionalities
+  - ├  ─  ─ User.java             # User model class
+  - ├  ─  ─ Utils.java            # Hashing utility functions
+  - │
+  - ├  ─  ─ users.db              # Auto-generated storage file
+  - ├  ─  ─ README.md             # Project documentation
+  - └  ─  ─ .gitignore            # Git ignore file
 
 **How to Run the Project**
   1. Clone the repository
