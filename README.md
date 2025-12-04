@@ -44,7 +44,7 @@ This project demonstrates core programming concepts such as Object-Oriented Prog
         - Utils.java → Password hashing utilities
         - Main.java → Main application (menu-driven program)
     
-          ![Uploading ChatGPT Image Dec 4, 2025, 12_39_14 PM.png…]()
+          <img width="1536" height="1024" alt="ChatGPT Image Dec 4, 2025, 12_39_14 PM" src="https://github.com/user-attachments/assets/cdd5f73c-3e6c-42dd-82e8-b35c235a773d" />
 
 
 **Technologies Used** 
