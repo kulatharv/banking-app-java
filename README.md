@@ -106,19 +106,19 @@ This project demonstrates core programming concepts such as Object-Oriented Prog
  
 
 **Security Features**
-       -  Uses SHA-256 Hashing to store passwords (not plain text)
-       -  Prevents balance from going below zero
-       -  Data is stored in a serialized file to avoid direct editing
+  -  Uses SHA-256 Hashing to store passwords (not plain text)
+  -  Prevents balance from going below zero
+  -  Data is stored in a serialized file to avoid direct editing
 
 
 **Future Enhancements**
-    -  Here are additional features that can be added:
-    -  Role-based Admin Login
-    -  Funds Transfer between users
-    -  Loan Module
-    -  ATM Simulation
-    -  GUI version using Java Swing / JavaFX
-    -  Database integration (MySQL / SQLite)
+  -  Here are additional features that can be added:
+  -  Role-based Admin Login
+  -  Funds Transfer between users
+  -  Loan Module
+  -  ATM Simulation
+  -  GUI version using Java Swing / JavaFX
+  -  Database integration (MySQL / SQLite)
 
 **Author**
       Atharv Ramesh Kulkarni
