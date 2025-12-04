@@ -43,6 +43,9 @@ This project demonstrates core programming concepts such as Object-Oriented Prog
         - BankSystem.java → Contains all banking logic
         - Utils.java → Password hashing utilities
         - Main.java → Main application (menu-driven program)
+    
+          ![Uploading ChatGPT Image Dec 4, 2025, 12_39_14 PM.png…]()
+
 
 **Technologies Used** 
   -  Technology	Purpose
