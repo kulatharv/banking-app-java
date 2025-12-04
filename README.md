@@ -45,7 +45,7 @@ This project demonstrates core programming concepts such as Object-Oriented Prog
         - Main.java → Main application (menu-driven program)
 
 **Technologies Used**
-    Technology	Purpose
+    - Technology	Purpose
         - Java (Core Java)	Main programming language
         - OOP Principles	Class, Object, Encapsulation
         - File Handling (Serialization)	Persistent data storage
