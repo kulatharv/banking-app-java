@@ -23,9 +23,9 @@ This project demonstrates core programming concepts such as Object-Oriented Prog
 
 
   1. User Authentication
-     -Register using a username and password
-     -Passwords are securely hashed before storage
-     -Login with credential validation
+     - Register using a username and password
+     - Passwords are securely hashed before storage
+     - Login with credential validation
   
    3. Banking Operations
         - Deposit money
