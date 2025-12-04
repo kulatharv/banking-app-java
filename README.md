@@ -14,16 +14,16 @@ This project demonstrates core programming concepts such as Object-Oriented Prog
   - Maintain persistent data storage using serialization
 
 **This project is ideal for:**
-  College assignments
-  Java mini-projects
-  Learning OOP concepts
-  Understanding file handling in Java
+  - College assignments
+  - Java mini-projects
+  - Learning OOP concepts
+  - Understanding file handling in Java
 
 **Features** 
     1. User Authentication
-      - Register using a username and password
-      - Passwords are securely hashed before storage
-      - Login with credential validation
+        - Register using a username and password
+        - Passwords are securely hashed before storage
+        - Login with credential validation
   
    2. Banking Operations
         - Deposit money
@@ -103,15 +103,13 @@ This project demonstrates core programming concepts such as Object-Oriented Prog
   
  
 
-**Security Features
-**
+**Security Features**
        - Uses SHA-256 Hashing to store passwords (not plain text)
        - Prevents balance from going below zero
        - Data is stored in a serialized file to avoid direct editing
 
 
-**Future Enhancements
-**
+**Future Enhancements**
     - Here are additional features that can be added:
     - Role-based Admin Login
     - Funds Transfer between users
@@ -120,8 +118,7 @@ This project demonstrates core programming concepts such as Object-Oriented Prog
     - GUI version using Java Swing / JavaFX
     - Database integration (MySQL / SQLite)
 
-**Author
-**
+**Author**
       Atharv Ramesh Kulkarni
       GitHub: @kulatharv
 
