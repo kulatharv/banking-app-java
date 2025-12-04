@@ -20,23 +20,25 @@ This project demonstrates core programming concepts such as Object-Oriented Prog
   - Understanding file handling in Java
 
 **Features** 
-    1. User Authentication
-        - Register using a username and password
-        - Passwords are securely hashed before storage
-        - Login with credential validation
+
+
+  1. User Authentication
+     -Register using a username and password
+     -Passwords are securely hashed before storage
+     -Login with credential validation
   
-   2. Banking Operations
+   3. Banking Operations
         - Deposit money
         - Withdraw money (with insufficient balance checks)
         - Check account balance
         - View detailed transaction history
     
-  3. Persistent Storage
+  4. Persistent Storage
         - User data stored in a local file using object serialization
         - Automatically loads existing data on startup
         - Automatically saves state after every operation
     
-  4. Clean Modular Code
+  5. Clean Modular Code
         - User.java → Handles user data & transactions
         - BankSystem.java → Contains all banking logic
         - Utils.java → Password hashing utilities
